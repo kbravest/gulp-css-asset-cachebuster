@@ -1,0 +1,33 @@
+{
+  "name": "gulp-css-asset-cachebuster",
+  "version": "0.0.1",
+  "description": "Adds a cache buster query parameter to each url() entry found in your CSS.",
+  "keywords": [
+    "gulpplugin",
+    "cachebuster"
+  ],
+  "main": "lib/gulp-css-asset-cachebuster.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kcmoot/gulp-css-asset-cachebuster.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kcmoot/gulp-css-asset-cachebuster/issues"
+  },
+  "homepage": "https://github.com/kcmoot/gulp-css-asset-cachebuster",
+  "dependencies": {
+    "gulp-util": "^3.0.0",
+    "lodash": "^2.4.1",
+    "through2": "^0.5.1"
+  },
+  "devDependencies": {
+    "event-stream": "^3.1.7",
+    "gulp": "^3.8.6",
+    "gulp-replace": "^0.4.0",
+    "gulp-watch": "^0.6.9"
+  }
+}
