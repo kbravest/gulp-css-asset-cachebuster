@@ -1,11 +1,11 @@
 {
   "name": "gulp-css-asset-cachebuster.example",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "private": true,
   "dependencies": {},
   "devDependencies": {
     "gulp": "3.8.11",
-    "gulp-css-asset-cachebuster": "0.0.1"
+    "gulp-css-asset-cachebuster": "0.0.2"
   }
 }
