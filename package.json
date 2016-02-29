@@ -1,6 +1,6 @@
 {
   "name": "gulp-css-asset-cachebuster",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Adds a cache buster query parameter to each url() entry found in your CSS.",
   "keywords": [
     "gulpplugin",

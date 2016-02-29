@@ -6,6 +6,6 @@
   "dependencies": {},
   "devDependencies": {
     "gulp": "3.8.11",
-    "gulp-css-asset-cachebuster": "0.0.2"
+    "gulp-css-asset-cachebuster": "0.0.3"
   }
 }
